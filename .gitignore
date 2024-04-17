@@ -1,0 +1,14 @@
+yarn.lock
+package-lock.json
+node_modules/
+.next/
+out/
+dist/
+build/
+.idea/
+.vscode/
+*.iml
+*.log
+*.log.*
+*.log-*
+*.log/*
